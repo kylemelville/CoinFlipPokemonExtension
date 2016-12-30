@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml:23:1-29:12
+	package
+		ADDED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml:24:5-47
+		INJECTED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml:23:11-69
+	android:versionCode
+		INJECTED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml:25:5-28:19
+	android:label
+		ADDED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml:26:9-38
+uses-sdk
+INJECTED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kyle\Desktop\Coin Extension\CoinFlipPokemonExt\app\src\main\AndroidManifest.xml

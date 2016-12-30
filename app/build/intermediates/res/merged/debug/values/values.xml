@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="coins">
+    	<item>Silver Energy Coin</item>
+        <item>Shiny Mega Gyrados Silver Coin</item>
+        <item>Mega Mewtwo X Coin</item>
+    </string-array>
+    <string-array name="coins_values">
+    	<item>e680946a1ae44369b98f00183108db28</item>
+        <item>g54b3e8aeea54976a2edc04e90dc61a5</item>
+        <item>e33253fc1989462ab1f9b109c520fc7d</item>
+    </string-array>
+    <string name="app_name">Coin Flip Pokémon Add-on</string>
+</resources>

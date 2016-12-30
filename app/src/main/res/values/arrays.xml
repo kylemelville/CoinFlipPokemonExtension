@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ *========================================================================
+ * arrays.xml
+ * Sep 14, 2012 09:15:36 PM | variable
+ * Copyright (c) 2012 Richard Banasiak
+ *========================================================================
+ * This file is part of CoinFlipExtExample.
+ *
+ *    CoinFlipExtExample is free software: you can redistribute it and/or modify
+ *    it under the terms of the GNU General Public License as published by
+ *    the Free Software Foundation, either version 3 of the License, or
+ *    (at your option) any later version.
+ *
+ *    CoinFlipExtExample is distributed in the hope that it will be useful,
+ *    but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *    GNU General Public License for more details.
+ *
+ *    You should have received a copy of the GNU General Public License
+ *    along with CoinFlipExtExample.  If not, see <http://www.gnu.org/licenses/>. 
+-->
+<resources>  
+    <string-array name="coins">
+    	<item>Silver Energy Coin</item>
+        <item>Shiny Mega Gyrados Silver Coin</item>
+        <item>Mega Mewtwo X Coin</item>
+    </string-array>
+    <string-array name="coins_values">
+    	<item>e680946a1ae44369b98f00183108db28</item>
+        <item>g54b3e8aeea54976a2edc04e90dc61a5</item>
+        <item>e33253fc1989462ab1f9b109c520fc7d</item>
+    </string-array>
+</resources>
