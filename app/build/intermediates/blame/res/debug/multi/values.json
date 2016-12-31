@@ -130,5 +130,71 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\Users\\Kyle\\Documents\\GitHub\\CoinFlipPokemonExtension\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 19,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "C:\\Users\\Kyle\\Documents\\GitHub\\CoinFlipPokemonExtension\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endLine": 29,
+                        "endColumn": 19,
+                        "endOffset": 1308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "C:\\Users\\Kyle\\Documents\\GitHub\\CoinFlipPokemonExtension\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1313,
+                        "endLine": 36,
+                        "endColumn": 19,
+                        "endOffset": 1634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 61,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "C:\\Users\\Kyle\\Documents\\GitHub\\CoinFlipPokemonExtension\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 61,
+                        "endOffset": 1169
+                    }
+                }
+            }
+        ]
     }
 ]

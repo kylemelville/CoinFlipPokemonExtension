@@ -2,13 +2,17 @@
 <resources>
     <string-array name="coins">
     	<item>Silver Energy Coin</item>
-        <item>Shiny Mega Gyrados Silver Coin</item>
-        <item>Mega Mewtwo X Coin</item>
+        <item>Silver Mega Gyrados Coin</item>
+        <item>Red Mega Gyrados Coin</item>
+        <item>Blue Mega Mewtwo X Coin</item>
+        <item>Green Zygarde Coin</item>
     </string-array>
     <string-array name="coins_values">
     	<item>e680946a1ae44369b98f00183108db28</item>
         <item>g54b3e8aeea54976a2edc04e90dc61a5</item>
+        <item>f9cae597281a40d48215c9c13872e638</item>
         <item>e33253fc1989462ab1f9b109c520fc7d</item>
+        <item>d7a78b695e844cac883694bf40b279fa</item>
     </string-array>
     <string name="app_name">Coin Flip Pokémon Add-on</string>
 </resources>
